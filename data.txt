@@ -1,0 +1,7 @@
+https://www.youtube.com/channel/UCS5yb75qx5GFOG-uV5JLYlQ
+https://p5js.org/
+https://ml5js.org/
+https://learn.ml5js.org/docs/#/reference/knn-classifier
+https://www.youtube.com/watch?v=gqvQfi5zTiM
+
+https://help.github.com/en/github/using-git/adding-a-remote
